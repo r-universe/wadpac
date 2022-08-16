@@ -2,5 +2,9 @@
   {
     "package": "GGIR",
     "oncran": true
+  },
+  {
+    "package": "GGIRread",
+    "oncran": true
   }
 ]
