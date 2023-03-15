@@ -1,10 +1,10 @@
 [
   {
-    "package": "GGIR",
+    "package": "GGIRread",
     "oncran": true
   },
   {
-    "package": "GGIRread",
+    "package": "GGIR",
     "oncran": true
   }
 ]
